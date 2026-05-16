@@ -212,14 +212,9 @@ The dashboard will open in your browser at `http://localhost:8501`
 
 # Screenshots
 
-### Dashboard Overview
-
-![Dashboard Overview](screenshots/dashboard_overview.png)
-_Main dashboard showing transaction metrics and fraud distribution by country_
-
 ### Live Prediction Form
 
-![Prediction Form](screenshots/prediction_form.png)
+![Prediction Form](screenshots/Fraudulent_Predictions.png)
 _Interactive form for real-time fraud detection predictions_
 
 ---
